@@ -1,5 +1,23 @@
 # README
 
+Personal project site to showcase and sale custom wood working pieces.
+
+I would like a detailed retail/gallery website.
+
+User table
+    t.string :username
+    t.string :password
+    t.string :address
+    t.string :email
+
+Gallery table
+    t.string :item
+    t.string :color
+    t.string :decor
+    
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
