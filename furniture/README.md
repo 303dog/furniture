@@ -5,7 +5,7 @@ Personal project site to showcase and sale custom wood working pieces.
 I would like a detailed retail/gallery website.
 
 User table
-    t.string :username
+    t.string :name
     t.string :password
     t.string :address
     t.string :email
